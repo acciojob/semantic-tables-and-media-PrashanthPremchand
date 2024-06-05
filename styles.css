@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+table, th, td{
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+li{
+	margin: 10px;
+	padding: 5px;
+}
